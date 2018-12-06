@@ -1,0 +1,29 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "description": "Starter project for Express Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnydash007/express-starter.git"
+  },
+  "keywords": [
+    "Express",
+    "Javascript"
+  ],
+  "author": "Sunny Dash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnydash007/express-starter/issues"
+  },
+  "homepage": "https://github.com/sunnydash007/express-starter#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15",
+    "sqlite3": "^4.0.4"
+  }
+}
